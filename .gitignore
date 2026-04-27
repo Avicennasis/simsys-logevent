@@ -1,0 +1,14 @@
+# Node
+node_modules/
+*.tgz
+**/dist/
+.npm/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Tests / coverage
+coverage/
+.nyc_output/

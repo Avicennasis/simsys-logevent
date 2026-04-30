@@ -12,3 +12,6 @@ node_modules/
 # Tests / coverage
 coverage/
 .nyc_output/
+
+# Internal infrastructure topology — gitignored to avoid leaking deployment details
+DeployedApps.md

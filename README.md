@@ -1,8 +1,8 @@
 # @simsys/logevent
 
-[![CI](https://github.com/Avicennasis/simsys-logevent/actions/workflows/test-node.yml/badge.svg)](https://github.com/Avicennasis/simsys-logevent/actions/workflows/test-node.yml)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Avicennasis/simsys-logevent/badge)](https://scorecard.dev/viewer/?uri=github.com/Avicennasis/simsys-logevent)
-[![Release](https://img.shields.io/github/v/release/Avicennasis/simsys-logevent?display_name=tag)](https://github.com/Avicennasis/simsys-logevent/releases)
+[![CI](https://github.com/Simmons-Systems/simsys-logevent/actions/workflows/test-node.yml/badge.svg)](https://github.com/Simmons-Systems/simsys-logevent/actions/workflows/test-node.yml)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Simmons-Systems/simsys-logevent/badge)](https://scorecard.dev/viewer/?uri=github.com/Simmons-Systems/simsys-logevent)
+[![Release](https://img.shields.io/github/v/release/Simmons-Systems/simsys-logevent?display_name=tag)](https://github.com/Simmons-Systems/simsys-logevent/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -23,7 +23,7 @@ Pin to a release artifact (no npm registry):
 ```json
 {
   "dependencies": {
-    "@simsys/logevent": "https://github.com/Avicennasis/simsys-logevent/releases/download/node-v0.1.0/simsys-logevent-0.1.0.tgz"
+    "@simsys/logevent": "https://github.com/Simmons-Systems/simsys-logevent/releases/download/node-v0.1.1/simsys-logevent-0.1.1.tgz"
   }
 }
 ```

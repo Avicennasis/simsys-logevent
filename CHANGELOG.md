@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-04-29 (`node-v0.1.1`)
+
+### Changed
+
+- Repository transferred from `Avicennasis/simsys-logevent` to
+  `Simmons-Systems/simsys-logevent`. GitHub redirects keep old URLs
+  working, but the new owner is the canonical source. No functional
+  changes; consumers should update tarball URLs to the new owner +
+  `node-v0.1.1` at their convenience.
+
 ## [0.1.0] - 2026-04-27 (`node-v0.1.0`)
 
 Initial release. Node-only.
